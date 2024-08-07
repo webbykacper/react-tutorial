@@ -1,0 +1,7 @@
+Cykl życia komponentu React obejmuje 3 główne fazy: montowanie (mounting), aktualizowanie (updating) i odmontowywanie (Unmouting)
+
+1. Montowanie to proces tworzenia i wstawiania komponentu do drzewka DOM.
+
+2. Aktualizowanie zachodzi, gdy zmieniają się właściwości (props) lub stan (state) komponentu.
+
+3. Odmontowywanie to proces usuwania komponentu z DOM.
