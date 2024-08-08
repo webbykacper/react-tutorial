@@ -1,3 +1,9 @@
+# [0.0.3] 08.08.2024
+ - Basics of events
+ - Higher order components 
+ - Hooks, useState, useEffect, useMemo, etc. 
+ - Introduction to custom hooks
+
 # [0.0.2] 07.08.2024 
  - Introduction to functional components
  - Lists and keys
