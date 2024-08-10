@@ -1,3 +1,6 @@
+# [0.0.4] 10.08.2024
+ - basics of react router
+
 # [0.0.3] 08.08.2024
  - Basics of events
  - Higher order components 
